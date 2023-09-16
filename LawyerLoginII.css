@@ -1,0 +1,535 @@
+.lawyer-login-ii-child {
+  position: absolute;
+  top: 1098.5px;
+  left: 150.5px;
+  border-top: 1px dashed var(--primary-black);
+  box-sizing: border-box;
+  width: 858px;
+  height: 1px;
+  opacity: 0.2;
+}
+.find-lawyers {
+  position: relative;
+}
+.find-lawyers-group,
+.find-lawyers-parent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.find-lawyers-parent {
+  position: absolute;
+  top: 52px;
+  left: 250px;
+  width: 580px;
+  height: 69px;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  font-family: var(--font-league-spartan);
+}
+.lawyer-login-ii-item {
+  position: absolute;
+  top: 145px;
+  left: -5px;
+  border-top: 10px solid var(--surface-subdude-hoveredgray-4);
+  box-sizing: border-box;
+  width: 1290.01px;
+  height: 10px;
+}
+.image-1-icon,
+.image-2-icon {
+  position: absolute;
+  top: 31px;
+  left: 17px;
+  width: 82px;
+  height: 86px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 28px;
+  left: 1080px;
+  width: 165px;
+  height: 93px;
+}
+.your-paragraph-text-1 {
+  position: absolute;
+  top: 21px;
+  left: 109px;
+  width: 110px;
+  height: 129px;
+  overflow: hidden;
+}
+.lawyer-login-ii-inner {
+  position: absolute;
+  top: 24.5px;
+  left: 98.5px;
+  border-right: 1px solid var(--primary-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 99.13px;
+}
+.upload-photo1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.email-address9 {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  line-height: 20px;
+  display: none;
+}
+.input-field9 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 1px solid var(--gray-100);
+  box-sizing: border-box;
+  height: 44px;
+  color: var(--gray-500);
+}
+.order-id10 {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.from5 {
+  position: absolute;
+  top: 145px;
+  left: 33px;
+  gap: var(--gap-base);
+}
+.from5,
+.from6,
+.order-id14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from6 {
+  position: absolute;
+  top: 145px;
+  left: 427px;
+  gap: var(--gap-base);
+}
+.order-id14 {
+  width: 115px;
+}
+.from7,
+.from8 {
+  position: absolute;
+}
+.from7 {
+  top: 420px;
+  left: 33px;
+  width: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from8 {
+  top: 467px;
+  left: 34px;
+}
+.from9,
+.order-id15 {
+  position: absolute;
+  top: 523px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.order-id15 {
+  left: 34px;
+  width: 360px;
+  gap: var(--gap-5xs);
+}
+.from9 {
+  left: 429px;
+}
+.label1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 48px;
+  text-transform: uppercase;
+}
+.regulararrowright-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.button1 {
+  position: absolute;
+  top: 1109px;
+  left: 230px;
+  border-radius: var(--br-11xs);
+  background-color: var(--primary-500);
+  width: 360px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  color: var(--gray-00);
+}
+.service-offerings1,
+.upload-documents1 {
+  position: absolute;
+  top: 102px;
+  left: 33px;
+  font-size: var(--body-xl-600-size);
+  line-height: 18.75px;
+  font-weight: 600;
+  display: inline-block;
+  width: 239px;
+}
+.service-offerings1 {
+  top: 335px;
+}
+.tab4 {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 407px;
+  height: 60px;
+}
+.property-1sign-up-child {
+  position: absolute;
+  top: 59.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--gray-100);
+  box-sizing: border-box;
+  width: 817px;
+  height: 1px;
+}
+.input-field15 {
+  position: absolute;
+  top: 939px;
+  left: 33px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 1px solid var(--gray-100);
+  box-sizing: border-box;
+  width: 754px;
+  height: 128px;
+  color: var(--gray-500);
+}
+.bioprofessional-summary-bri1 {
+  position: absolute;
+  top: 919px;
+  left: 34px;
+  line-height: 20px;
+  display: inline-block;
+  width: 754px;
+}
+.sign-in2 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+  display: none;
+  width: 212px;
+  flex-shrink: 0;
+}
+.tab5 {
+  position: absolute;
+  top: calc(50% - 601.5px);
+  left: calc(50% - 2.5px);
+  background-color: var(--gray-00);
+  box-shadow: -1px 0 0#e4e7e9 inset, 0 1px 0#e4e7e9 inset, 0-3px 0#fa8232 inset;
+  width: 412px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--body-xl-600-size);
+}
+.arbritraition1 {
+  position: absolute;
+  top: 390px;
+  left: 394px;
+  line-height: 20px;
+  display: inline-block;
+  width: 91px;
+}
+.legal2 {
+  margin: 0;
+}
+.legal-consultancy1,
+.legal-representation1 {
+  line-height: 20px;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.legal-representation1 {
+  position: absolute;
+  top: 369px;
+  left: 278px;
+  width: 106px;
+}
+.legal-consultancy1 {
+  position: relative;
+  width: 90px;
+}
+.order-id17 {
+  position: absolute;
+  top: 370px;
+  left: 178px;
+  width: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from-elements-icon2 {
+  position: absolute;
+  top: 420px;
+  left: 321px;
+  border-radius: var(--br-11xs);
+  width: 20px;
+  height: 20px;
+}
+.mediation1 {
+  position: absolute;
+  top: 390px;
+  left: 485px;
+  line-height: 20px;
+  display: inline-block;
+  width: 91px;
+}
+.from-elements10 {
+  position: absolute;
+  top: 420px;
+  left: 417px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 2px solid var(--primary-500);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.notarization1 {
+  position: absolute;
+  top: 390px;
+  left: 561px;
+  line-height: 20px;
+  display: inline-block;
+  width: 91px;
+}
+.from-elements11 {
+  position: absolute;
+  top: 417px;
+  left: 587px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 2px solid var(--primary-500);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.document-writing1 {
+  position: absolute;
+  top: 370px;
+  left: 652px;
+  line-height: 20px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 90px;
+}
+.from-elements-icon3 {
+  position: absolute;
+  top: 417px;
+  left: 677px;
+  border-radius: var(--br-11xs);
+  width: 20px;
+  height: 20px;
+}
+.client-interaction1 {
+  position: absolute;
+  top: 632px;
+  left: 33px;
+  font-size: var(--body-xl-600-size);
+  line-height: 18.75px;
+  font-weight: 600;
+  display: inline-block;
+  width: 239px;
+}
+.in-person1,
+.mode-of-communication1,
+.phone1,
+.video-conference1 {
+  position: absolute;
+  top: 692px;
+  left: 33px;
+  line-height: 20px;
+  display: inline-block;
+  width: 168px;
+}
+.in-person1,
+.phone1,
+.video-conference1 {
+  top: 656px;
+  left: 245px;
+  width: 91px;
+}
+.phone1,
+.video-conference1 {
+  left: 437px;
+}
+.video-conference1 {
+  left: 597px;
+  width: 124px;
+}
+.from-elements12,
+.from-elements13,
+.from-elements14 {
+  position: absolute;
+  top: 692px;
+  left: 262px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 2px solid var(--primary-500);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.from-elements13,
+.from-elements14 {
+  left: 447px;
+}
+.from-elements14 {
+  left: 649px;
+}
+.order-id18,
+.order-id19 {
+  position: absolute;
+  top: 747px;
+  left: 34px;
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.order-id19 {
+  left: 429px;
+}
+.accept-client-privacy1 {
+  position: absolute;
+  top: 849px;
+  left: 37px;
+  line-height: 20px;
+  display: inline-block;
+  width: 177px;
+}
+.from-elements15 {
+  position: absolute;
+  top: 849px;
+  left: 230px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 2px solid var(--primary-500);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.accept-platforms-tc1 {
+  position: absolute;
+  top: 849px;
+  left: 429px;
+  line-height: 20px;
+  display: inline-block;
+  width: 177px;
+}
+.from-elements16,
+.property-1sign-up {
+  position: absolute;
+  top: 849px;
+  left: 622px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  border: 2px solid var(--primary-500);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.property-1sign-up {
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-9xs);
+  box-shadow: var(--dropdown-shadow);
+  border: 1px solid var(--gray-100);
+  width: 819px;
+  height: 1203px;
+  overflow: hidden;
+}
+.login1,
+.typecheckbox-statusstatus2-icon,
+.typecheckbox-statusstatus3-icon {
+  position: absolute;
+  top: 440px;
+  left: 236px;
+  border-radius: var(--br-11xs);
+  width: 20px;
+  height: 20px;
+}
+.login1,
+.typecheckbox-statusstatus3-icon {
+  top: 437px;
+  left: 531px;
+}
+.login1 {
+  top: 186px;
+  left: 209px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 865px;
+  height: 1248px;
+  overflow: hidden;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-900);
+}
+.basic-information,
+.credentials-and-services {
+  position: absolute;
+  top: 226px;
+  left: 229px;
+  font-size: var(--body-xl-600-size);
+  line-height: 28px;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  width: 416px;
+  height: 60px;
+}
+.credentials-and-services {
+  left: 633px;
+}
+.lawyer-login-ii {
+  position: relative;
+  background-color: var(--gray-00);
+  width: 100%;
+  height: 1614px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-black);
+  font-family: var(--body-small-400);
+}

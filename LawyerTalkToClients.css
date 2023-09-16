@@ -1,0 +1,745 @@
+.lawyer-talk-to-clients-child {
+  position: absolute;
+  top: 151px;
+  left: 211px;
+  background-color: var(--color-whitesmoke-100);
+  width: 1086px;
+  height: 707px;
+}
+.clients,
+.messagetext {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+.clients {
+  height: 1.84%;
+  width: 7.97%;
+  top: 21.08%;
+  left: 17.19%;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-league-spartan);
+  display: inline-block;
+}
+.regularhouse-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.home1 {
+  position: relative;
+  line-height: 20px;
+}
+.regularcaretright-icon5 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+.shop-grid4 {
+  position: relative;
+  line-height: 20px;
+  display: none;
+}
+.regularcaretright-icon6 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  display: none;
+}
+.breadcrumb1,
+.breadcumb1 {
+  display: flex;
+  justify-content: center;
+}
+.breadcumb1 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.breadcrumb1 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  background-color: var(--gray-50);
+  width: 1280px;
+  height: 44px;
+  flex-direction: column;
+  padding: 0 var(--padding-146xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-600);
+  font-family: var(--body-small-400);
+}
+.dashboard {
+  position: relative;
+}
+.dashboard-parent,
+.lawyer-talk-to-clients-inner {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.dashboard-parent {
+  gap: var(--gap-11xl);
+}
+.lawyer-talk-to-clients-inner {
+  position: absolute;
+  top: 50px;
+  left: 240px;
+  width: 594px;
+  height: 69px;
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-league-spartan);
+}
+.image-3-icon1,
+.image-4-icon1 {
+  position: absolute;
+  top: 31px;
+  left: 17px;
+  width: 82px;
+  height: 86px;
+  object-fit: cover;
+}
+.image-4-icon1 {
+  top: 17px;
+  left: 1080px;
+  width: 165px;
+  height: 93px;
+}
+.your-paragraph-text-21 {
+  position: absolute;
+  top: 21px;
+  left: 109px;
+  width: 110px;
+  height: 129px;
+  overflow: hidden;
+}
+.lawyer-talk-to-clients-item {
+  position: absolute;
+  top: 24.5px;
+  left: 98.5px;
+  border-right: 1px solid var(--primary-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 99.13px;
+}
+.select1 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: 16px;
+  line-height: 20px;
+  display: none;
+}
+.regularcaretdown-icon1 {
+  position: absolute;
+  top: calc(50% - 7.5px);
+  right: 16px;
+  width: 16px;
+  height: 16px;
+}
+.dropdown1 {
+  position: absolute;
+  top: 123px;
+  left: 1035px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--gray-100);
+  box-sizing: border-box;
+  width: 223px;
+  height: 37px;
+  overflow: hidden;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-900);
+  font-family: var(--body-small-400);
+}
+.switch-language1 {
+  position: absolute;
+  top: 136px;
+  left: 1062px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-league-spartan);
+  display: inline-block;
+  width: 101px;
+  height: 15px;
+}
+.lawyer-talk-to-clients-child1 {
+  position: absolute;
+  top: 167.5px;
+  left: 206.5px;
+  border-right: 1px solid var(--surface-subdude-hoveredgray-4);
+  box-sizing: border-box;
+  width: 1px;
+  height: 683.03px;
+}
+.lawyer-talk-to-clients-child2 {
+  position: absolute;
+  top: 224.5px;
+  left: -3.5px;
+  border-top: 1px solid var(--surface-subdude-hoveredgray-4);
+  box-sizing: border-box;
+  width: 201px;
+  height: 1px;
+}
+.your-paragraph-text-3 {
+  position: absolute;
+  top: 160px;
+  left: 2px;
+  width: 51px;
+  height: 61px;
+  object-fit: cover;
+}
+.lawyer-talk-to-clients-child3 {
+  position: absolute;
+  top: 177px;
+  left: 643px;
+  border-radius: var(--br-xl);
+  width: 597px;
+  height: 690px;
+}
+.my-services1 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  letter-spacing: 0.02em;
+  mix-blend-mode: normal;
+}
+.clipboard-tick-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.my-services-group {
+  position: relative;
+  width: 141px;
+  height: 24px;
+  opacity: 0.6;
+  color: var(--color-orangered);
+}
+.appointments1 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  letter-spacing: 0.02em;
+}
+.appointments-group,
+.medicine-order-group {
+  position: relative;
+  width: 159px;
+  height: 24px;
+  opacity: 0.6;
+}
+.medicine-order-group {
+  width: 171px;
+}
+.message1 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  letter-spacing: 0.02em;
+}
+.message-group,
+.settings-group,
+.transactions-group {
+  position: relative;
+  width: 113px;
+  height: 24px;
+  opacity: 0.6;
+}
+.settings-group,
+.transactions-group {
+  width: 148px;
+}
+.settings-group {
+  width: 110px;
+}
+.group-container {
+  height: 329px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.adv-rajesh-mehra,
+.client-1,
+.sidebar1 {
+  position: absolute;
+  font-family: var(--font-league-spartan);
+}
+.sidebar1 {
+  top: 246px;
+  left: 12px;
+  width: 190px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--body-xl-600-size);
+  color: var(--color-gray-400);
+}
+.adv-rajesh-mehra,
+.client-1 {
+  height: 1.84%;
+  width: 12.58%;
+  top: 20.51%;
+  left: 4.61%;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+}
+.client-1 {
+  height: 3%;
+  width: 7.66%;
+  top: 25.35%;
+  left: 62.11%;
+  font-size: var(--font-size-13xl);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #f8fbfa;
+  width: 75.21px;
+  height: 32.44px;
+}
+.today {
+  position: absolute;
+  top: 7.37px;
+  left: 8.85px;
+  line-height: 12px;
+  font-weight: 500;
+  display: inline-block;
+  width: 56.04px;
+  height: 17.7px;
+}
+.group-div,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75.21px;
+  height: 32.44px;
+}
+.group-div {
+  top: 123.4px;
+  left: 943.9px;
+  text-align: right;
+  font-size: var(--table-t12-size);
+  color: #000e08;
+  font-family: var(--font-poppins);
+}
+.nab-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-00);
+  border-top: 1px solid #eefaf8;
+  box-sizing: border-box;
+  width: 553px;
+  height: 132.72px;
+}
+.clip-attachment-icon {
+  position: absolute;
+  height: 60%;
+  width: 7.34%;
+  top: 20%;
+  right: 92.66%;
+  bottom: 20%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-box-uihut-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+  background-color: #f3f6f6;
+  width: 318.53px;
+  height: 58.99px;
+}
+.write-your-message {
+  position: absolute;
+  top: 20.65px;
+  left: 17.7px;
+  line-height: 12px;
+  font-weight: 300;
+  display: inline-block;
+  width: 175.49px;
+  height: 17.7px;
+}
+.files-icon {
+  position: absolute;
+  height: 60%;
+  width: 11.11%;
+  top: 20%;
+  right: 3.7%;
+  bottom: 20%;
+  left: 85.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-box-uihut {
+  position: absolute;
+  top: 0;
+  left: 51.61px;
+  width: 318.53px;
+  height: 58.99px;
+}
+.camera-01-icon,
+.microphone-icon {
+  position: absolute;
+  height: 60%;
+  width: 7.34%;
+  top: 20%;
+  right: 11.01%;
+  bottom: 20%;
+  left: 81.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.microphone-icon {
+  right: 0;
+  left: 92.66%;
+}
+.clip-attachment-parent {
+  position: absolute;
+  height: 44.44%;
+  width: 87.2%;
+  top: 22.22%;
+  right: 6.4%;
+  bottom: 33.33%;
+  left: 6.4%;
+}
+.nab-bar {
+  position: absolute;
+  top: 975.75px;
+  left: 705px;
+  width: 553px;
+  height: 132.72px;
+  font-size: var(--table-t12-size);
+  color: rgba(121, 124, 123, 0.5);
+  font-family: var(--font-poppins);
+}
+.digilocker-seeklogocom-1-icon1 {
+  position: absolute;
+  top: 533px;
+  left: 7px;
+  width: 171px;
+  height: 42px;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 781px;
+  left: 658px;
+  border-radius: var(--br-xl);
+  background-color: var(--gray-00);
+  border: 1px solid var(--color-darkgray-300);
+  box-sizing: border-box;
+  width: 568px;
+  height: 58px;
+}
+.type-a-message {
+  position: absolute;
+  top: 798px;
+  left: 728px;
+  font-family: var(--font-poppins);
+  opacity: 0.65;
+}
+.lawyer-talk-to-clients-child4 {
+  position: absolute;
+  top: 177px;
+  left: 647px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: rgba(217, 217, 217, 0.4);
+  width: 589px;
+  height: 103px;
+}
+.image-11-icon1 {
+  position: absolute;
+  top: 186px;
+  left: 689px;
+  border-radius: var(--br-81xl);
+  width: 96px;
+  height: 94px;
+  object-fit: cover;
+}
+.messagetext1 {
+  position: relative;
+  display: inline-block;
+  max-width: var(--message-text-max-width);
+}
+.timestamp {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-small-400-size);
+  color: var(--color-darkgray-400);
+  text-align: right;
+}
+.messagecontainer {
+  border-radius: var(--br-mini) 0 var(--br-mini) var(--br-mini);
+  background-color: var(--surface-subdude-hoveredgray-4);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.bubblevector-icon {
+  position: relative;
+  width: 7px;
+  height: 7px;
+}
+.message3 {
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.message2,
+.message4,
+.message6,
+.message8 {
+  position: absolute;
+  top: 318px;
+  left: 869px;
+  width: 357px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.message4,
+.message6,
+.message8 {
+  top: 383px;
+}
+.message6,
+.message8 {
+  top: 448px;
+}
+.message8 {
+  top: 513px;
+  left: 866px;
+}
+.the-meet-was {
+  margin: 0;
+}
+.message10 {
+  position: absolute;
+  top: 578px;
+  left: 866px;
+  width: 357px;
+  height: 106px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.meet-icon {
+  position: absolute;
+  top: 633px;
+  left: 964px;
+  width: 34px;
+  height: 33px;
+  object-fit: cover;
+}
+.icons {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.buttoncontainer {
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-00);
+  width: 282px;
+  height: 35px;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.buttoncontainer1,
+.quickactionbutton1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.quickactionbutton1 {
+  position: absolute;
+  top: 674px;
+  left: 728px;
+  width: 352px;
+  justify-content: flex-start;
+  text-align: center;
+  color: var(--color-steelblue-100);
+}
+.buttoncontainer1 {
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-00);
+  width: 282px;
+  height: 35px;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.quickactionbutton2,
+.quickactionbutton3 {
+  position: absolute;
+  top: 922px;
+  left: 728px;
+  width: 352px;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  color: var(--color-steelblue-100);
+}
+.quickactionbutton3 {
+  top: 961px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 784px;
+  left: 663px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 51px;
+  height: 51px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-00);
+  border: 1px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 421px;
+  height: 99px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 3px;
+  left: 1px;
+  border-radius: var(--br-81xl);
+  width: 96px;
+  height: 94px;
+  object-fit: cover;
+}
+.client-11,
+.thankyou-so-much {
+  position: absolute;
+  left: 102px;
+  display: inline-block;
+}
+.client-11 {
+  top: 18px;
+  font-weight: 600;
+  width: 93px;
+}
+.thankyou-so-much {
+  top: 50px;
+  font-size: var(--body-medium-400-size);
+  font-family: var(--font-poppins);
+  width: 309px;
+  opacity: 0.65;
+}
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3 {
+  position: absolute;
+  top: 222px;
+  left: 219px;
+  width: 421px;
+  height: 99px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-lato);
+}
+.rectangle-container,
+.rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3 {
+  top: 327px;
+  left: 220px;
+}
+.rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3 {
+  top: 432px;
+}
+.rectangle-parent2,
+.rectangle-parent3 {
+  top: 537px;
+  left: 221px;
+}
+.rectangle-parent3 {
+  top: 642px;
+}
+.client-6 {
+  position: absolute;
+  top: 18px;
+  left: 102px;
+  font-weight: 600;
+  display: inline-block;
+  width: 93px;
+  height: 33px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 747px;
+  left: 221px;
+  width: 421px;
+  height: 99px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-lato);
+}
+.lawyer-talk-to-clients-child5 {
+  position: absolute;
+  top: 634px;
+  left: 1010px;
+  background-color: var(--color-steelblue-100);
+  width: 124px;
+  height: 32px;
+}
+.add-to-calendar {
+  position: absolute;
+  top: 640px;
+  left: 1014px;
+  color: var(--gray-00);
+}
+.lawyer-talk-to-clients {
+  position: relative;
+  background-color: var(--gray-00);
+  width: 100%;
+  height: 868px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-medium-400-size);
+  color: var(--primary-black);
+  font-family: var(--font-roboto);
+}

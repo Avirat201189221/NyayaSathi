@@ -1,0 +1,471 @@
+.lawyer-profile-child {
+  position: absolute;
+  top: 162px;
+  left: 207px;
+  background-color: var(--color-whitesmoke-100);
+  width: 1086px;
+  height: 707px;
+}
+.regularhouse-icon5 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.home5 {
+  position: relative;
+  line-height: 20px;
+}
+.regularcaretright-icon25 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+.shop-grid20 {
+  position: relative;
+  line-height: 20px;
+  display: none;
+}
+.regularcaretright-icon26 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  display: none;
+}
+.breadcrumb5,
+.breadcumb5 {
+  display: flex;
+  justify-content: center;
+}
+.breadcumb5 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.breadcrumb5 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  background-color: var(--gray-50);
+  width: 1280px;
+  height: 44px;
+  flex-direction: column;
+  padding: 0 var(--padding-146xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-600);
+  font-family: var(--body-small-400);
+}
+.dashboard-parent1,
+.lawyer-profile-inner {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.dashboard-parent1 {
+  gap: var(--gap-11xl);
+}
+.lawyer-profile-inner {
+  position: absolute;
+  top: 50px;
+  left: 240px;
+  width: 594px;
+  height: 69px;
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+}
+.image-3-icon5,
+.image-4-icon5 {
+  position: absolute;
+  top: 31px;
+  left: 17px;
+  width: 82px;
+  height: 86px;
+  object-fit: cover;
+}
+.image-4-icon5 {
+  top: 28px;
+  left: 1080px;
+  width: 165px;
+  height: 93px;
+}
+.your-paragraph-text-25 {
+  position: absolute;
+  top: 21px;
+  left: 109px;
+  width: 110px;
+  height: 129px;
+  overflow: hidden;
+}
+.lawyer-profile-item {
+  position: absolute;
+  top: 24.5px;
+  left: 98.5px;
+  border-right: 1px solid var(--primary-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 99.13px;
+}
+.select5 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: 16px;
+  line-height: 20px;
+  display: none;
+}
+.regularcaretdown-icon5 {
+  position: absolute;
+  top: calc(50% - 7.5px);
+  right: 16px;
+  width: 16px;
+  height: 16px;
+}
+.dropdown5 {
+  position: absolute;
+  top: 123px;
+  left: 1035px;
+  border-radius: var(--br-11xs);
+  background-color: var(--gray-00);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--gray-100);
+  box-sizing: border-box;
+  width: 223px;
+  height: 37px;
+  overflow: hidden;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-900);
+  font-family: var(--body-small-400);
+}
+.switch-language5 {
+  position: absolute;
+  top: 136px;
+  left: 1062px;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 101px;
+  height: 15px;
+}
+.lawyer-profile-child1 {
+  position: absolute;
+  top: 167.5px;
+  left: 206.5px;
+  border-right: 1px solid var(--surface-subdude-hoveredgray-4);
+  box-sizing: border-box;
+  width: 1px;
+  height: 683.03px;
+}
+.lawyer-profile-child2 {
+  position: absolute;
+  top: 224.5px;
+  left: -3.5px;
+  border-top: 1px solid var(--surface-subdude-hoveredgray-4);
+  box-sizing: border-box;
+  width: 201px;
+  height: 1px;
+}
+.lawyer-profile-child3 {
+  position: absolute;
+  top: 191px;
+  left: 228px;
+  border-radius: var(--br-xl);
+  width: 276px;
+  height: 313px;
+}
+.your-paragraph-text-33 {
+  position: absolute;
+  top: 160px;
+  left: 2px;
+  width: 51px;
+  height: 61px;
+  object-fit: cover;
+}
+.lawyer-profile-child4,
+.lawyer-profile-child5,
+.lawyer-profile-child6 {
+  position: absolute;
+  top: 191px;
+  left: 511px;
+  border-radius: var(--br-xl);
+  width: 671px;
+  height: 313px;
+}
+.lawyer-profile-child5,
+.lawyer-profile-child6 {
+  top: 523px;
+  left: 228px;
+  width: 490px;
+}
+.lawyer-profile-child6 {
+  left: 731px;
+  width: 451px;
+}
+.your-paragraph-text-42 {
+  position: absolute;
+  top: 136px;
+  left: 224px;
+  width: 277.41px;
+  height: 334px;
+  object-fit: cover;
+}
+.adv-rajesh-mehra3,
+.bar-council-information,
+.individual-lawyer {
+  position: absolute;
+  height: 2.88%;
+  width: 18.75%;
+  top: 25.12%;
+  left: 41.72%;
+  display: inline-block;
+}
+.bar-council-information,
+.individual-lawyer {
+  width: 24.92%;
+  top: 62.44%;
+  left: 19.77%;
+}
+.individual-lawyer {
+  width: 18.75%;
+  top: 29.61%;
+  left: 41.72%;
+  font-size: var(--font-size-6xl);
+  color: var(--color-coral);
+}
+.male {
+  position: relative;
+}
+.male-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.frame-container {
+  position: absolute;
+  top: 288px;
+  left: 558px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--body-xl-600-size);
+  color: var(--color-darkgray-300);
+}
+.bar-council-reg-number-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 584px;
+  left: 245px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--body-xl-600-size);
+  color: var(--color-darkgray-300);
+}
+.editing-icon,
+.editing-icon1,
+.editing-icon2 {
+  position: absolute;
+  top: 536px;
+  left: 1132px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.editing-icon1,
+.editing-icon2 {
+  top: 204px;
+}
+.editing-icon2 {
+  top: 536px;
+  left: 658px;
+}
+.user-icon2 {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.user-container {
+  position: absolute;
+  top: 296px;
+  left: 537px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.star-icon10,
+.star-icon11,
+.star-icon12,
+.star-icon13,
+.star-icon14 {
+  position: absolute;
+  height: 100%;
+  width: 17.46%;
+  top: 0;
+  right: 82.54%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.star-icon11,
+.star-icon12,
+.star-icon13,
+.star-icon14 {
+  right: 20.63%;
+  left: 61.9%;
+}
+.star-icon12,
+.star-icon13,
+.star-icon14 {
+  right: 41.27%;
+  left: 41.27%;
+}
+.star-icon13,
+.star-icon14 {
+  right: 61.9%;
+  left: 20.63%;
+}
+.star-icon14 {
+  right: 0;
+  left: 82.54%;
+}
+.component-22 {
+  position: absolute;
+  height: 4.15%;
+  width: 15.47%;
+  top: 50.69%;
+  right: 63.67%;
+  bottom: 45.16%;
+  left: 20.86%;
+}
+.rating-45 {
+  position: absolute;
+  height: 2.88%;
+  width: 11.41%;
+  top: 46.89%;
+  left: 22.89%;
+  display: inline-block;
+}
+.my-services5 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  letter-spacing: 0.02em;
+  mix-blend-mode: normal;
+}
+.clipboard-tick-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.my-services-parent3 {
+  position: relative;
+  width: 141px;
+  height: 24px;
+  opacity: 0.6;
+  color: var(--primary-black);
+}
+.appointments5 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  letter-spacing: 0.02em;
+}
+.appointments-parent3,
+.medicine-order-parent3 {
+  position: relative;
+  width: 159px;
+  height: 24px;
+  opacity: 0.6;
+}
+.medicine-order-parent3 {
+  width: 171px;
+}
+.message15 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  letter-spacing: 0.02em;
+}
+.message-parent3,
+.settings-parent3,
+.transactions-parent3 {
+  position: relative;
+  width: 113px;
+  height: 24px;
+  opacity: 0.6;
+}
+.settings-parent3,
+.transactions-parent3 {
+  width: 148px;
+}
+.settings-parent3 {
+  width: 110px;
+}
+.group-parent4,
+.sidebar5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-parent4 {
+  height: 329px;
+  gap: var(--gap-6xl);
+}
+.sidebar5 {
+  position: absolute;
+  top: 246px;
+  left: 12px;
+  width: 190px;
+  padding: 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  font-size: var(--body-xl-600-size);
+  color: var(--color-gray-400);
+}
+.adv-rajesh-mehra4 {
+  position: absolute;
+  height: 1.84%;
+  width: 12.58%;
+  top: 20.16%;
+  left: 4.61%;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+}
+.digilocker-seeklogocom-1-icon5 {
+  position: absolute;
+  top: 536px;
+  left: 5px;
+  width: 171px;
+  height: 42px;
+  overflow: hidden;
+}
+.lawyer-profile {
+  position: relative;
+  background-color: var(--gray-00);
+  width: 100%;
+  height: 868px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--primary-black);
+  font-family: var(--font-league-spartan);
+}
